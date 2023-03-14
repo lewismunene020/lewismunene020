@@ -26,13 +26,16 @@
 Hi 👋 My name is Lewis Munene
 =============================
  -->
-Web Developer
--------------
-
+<!-- Web Developer
+------------- -->
+<!-- 
 I 've been learning coding for the last three years . Started with HTML , CSS and Vanilla JavaScipt and pHp on the backend. As time went on i gained more interest in python and the world of framewroks embraced me . Currently am using vue and react on th frontend and Django and sometimes Flask on the backend . Programming is what i feel comfortable in and basically what i decided as my path . Being a proficient and hardworking developer i am currently working on some projects which are in progress and are to be released soon ...
-
+ -->
+ 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [lewismunene020@gmail.com](mailto:lewismunene020@gmail.com)
+* 📚  Currently learning Computer Science 
+* 👨‍💻  Looking  for  Api  Projects To Work  In
 * 🧠  I'm learning Django
 
 <a href="https://www.github.com/lewismunene020" target="_blank" rel="noreferrer"><img
