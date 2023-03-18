@@ -35,6 +35,7 @@ I 've been learning coding for the last three years . Started with HTML , CSS an
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [lewismunene020@gmail.com](mailto:lewismunene020@gmail.com)
 * 📚  Currently learning Computer Science 
+* ❤️  Loves working  on Ecommerce Projects 
 * 👨‍💻  Looking  for  Api  Projects To Work  In
 * 🧠  I'm learning Django
 
