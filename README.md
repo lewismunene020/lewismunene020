@@ -40,8 +40,8 @@ I 've been learning coding for the last three years . Started with HTML , CSS an
 * 🧠  I'm learning Django
 
 <a href="https://www.github.com/lewismunene020" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lewismunene020?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lewismuneneKE" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/lewismuneneKE?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/github/followers/lewismunene020?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lewismunene020" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/lewismunene020?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
 ### Skills
