@@ -34,10 +34,11 @@ I 've been learning coding for the last three years . Started with HTML , CSS an
  
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [lewismunene020@gmail.com](mailto:lewismunene020@gmail.com)
-* 📚  Currently stydying Computer Science 
+* 📚  Currently studying Computer Science 
 * ❤️  Loves Programming  in any language.. including java  😂 🤭
 * 👨‍💻  Always looking forward to work in innovative projects
-* 🧠  Expert in Most Languages that  help build scalable and enterprise solutions
+* 🧠  Working with  Django , Flask , React and  vueJs 
+* ⚙️  Learning some cross platform app  development in flutter
 
 <a href="https://www.github.com/lewismunene020" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lewismunene020?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lewismunene020" target="_blank" rel="noreferrer"><img
