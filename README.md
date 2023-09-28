@@ -35,10 +35,10 @@ I 've been learning coding for the last three years . Started with HTML , CSS an
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [lewismunene020@gmail.com](mailto:lewismunene020@gmail.com)
 * 📚  Currently studying Computer Science 
-* ❤️  Loves Programming  in any language.. including java  😂 🤭
+* ❤️  Ready  to  Build  any  Type  of Application Be it  Web  or native  Applications
 * 👨‍💻  Always looking forward to work in innovative projects
-* 🧠  Working with  Django , Flask , React and  vueJs 
-* ⚙️  Learning some cross platform app  development in flutter
+* 🧠  Working with  Django , NextJs(React) and Nuxt3(VueJs)
+* ⚙️  Experienced in  cross platform mobile app  development in Flutter and React-Native
 
 <a href="https://www.github.com/lewismunene020" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lewismunene020?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/lewismunene020" target="_blank" rel="noreferrer"><img
