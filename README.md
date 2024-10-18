@@ -33,7 +33,7 @@ I 've been learning coding for the last three years . Started with HTML , CSS an
  -->
  
 * 🌍  I'm based in Kenya
-* ✉️  You can contact me at [lewismunene020@gmail.com](mailto:lewismunene020@gmail.com)
+* ✉️  You can contact me at [lewis@nextunesolutions.com](mailto:lewis@nextunesolutions.com)
 * 📚  Currently studying Computer Science 
 * ❤️  Ready  to  Build  any  Type  of Application Be it  Web  or native  Applications
 * 👨‍💻  Always looking forward to work in innovative projects
